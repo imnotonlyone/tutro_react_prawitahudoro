@@ -1,2 +1,2 @@
-# tutro_react_prawitahudoro
+# tutor_react_prawitahudoro
 belajar react js
